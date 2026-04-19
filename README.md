@@ -6,6 +6,8 @@ This Kanban app is my portfolio piece showcasing modular JavaScript, responsive 
 
 - Presentation: Loom Recording[(https://www.loom.com/share/568177c84c1149b1bd583a409fde5c7a)]
 
+- Netlify [(https://app.netlify.com/projects/jslppredo23/overview)]
+
 - Design Reference:[Figma Reference File][(https://www.figma.com/design/y7bFCUYL5ZHfPeojACBXg2/Challenges-%7C-JSL?node-id=6033-11092&t=XbQhBWPYxXDAqp3x-1)]
 
 ## Features
